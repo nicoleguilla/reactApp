@@ -1,2 +1,3 @@
 # reactApp
-Elige tu propia aventura 🚀 Mini App realizada con React.
+Elige tu propia aventura 
+Pequeña App realizada con React.
