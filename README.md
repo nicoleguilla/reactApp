@@ -1,3 +1,3 @@
 # reactApp
-Elige tu propia aventura 
+Elige tu propia aventura ~ 
 Pequeña App realizada con React.
